@@ -1,5 +1,3 @@
-![Altax](https://altax.net/images/altax.png "Altax")
-
 # Drone Pilot
 
 Autonomous Pilot software that runs on companion computers. 
